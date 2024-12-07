@@ -25,9 +25,10 @@ The stipend was distrabuted among Jetro Web equally without dot in anyone mind.
 | 11 |                   |  Generator maintenance           |           | 25 USD     |             | Fule & engin oil  |
 | 12 |                   |  Business Register Agents        |           | 20 USD     |             | Transportation    |
 | 13 |                   |  Money Withdraw Agents           |           | 5  USD     |             | Transportation    |
+| 14 |                   |  Jetro Web Article               |           | 10 USD     |             | Notorization      |
 |    |                   |                                  |           |            |             |                   |
 |    |                   |                                  |           |  Total     |             |                   |
-|    |                   |                                  |           | 2,215 USD  |             |Stipend & services |
+|    |                   |                                  |           | 2,225 USD  |             |Stipend & services |
 |    |                   |                                  |           |            |             |                   |
 |    |                   |                                  |           | Balance    |             |                   |
-|    |                   |                                  |           | 85 USD     |             |   Future usage    |
+|    |                   |                                  |           | 75 USD     |             |   Future usage    |

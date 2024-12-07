@@ -32,3 +32,5 @@ The stipend was distrabuted among Jetro Web equally without dot in anyone mind.
 |    |                   |                                  |           |            |             |                   |
 |    |                   |                                  |           | Balance    |             |                   |
 |    |                   |                                  |           | 75 USD     |             |   Future usage    |
+
+* We decided to compensite the banking staff because of the late transaction.

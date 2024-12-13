@@ -4,7 +4,7 @@
 ### Here is the breakdown of the $3,400 USD that Jetro Web will used for her office.
 
 
-| NO |                   |    Item                                    |           | Total price|
+| NO |                   |    Items                                    |           | Total price|
 |----|-------------------|--------------------------------------------|-----------|------------|
 | 1  |                   |  rentage ($200 per month)                  |           | 2,400 USD  |
 | 2  |                   |  8 pieces of office desk ($65 for each)    |           | 520 USD    |

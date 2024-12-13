@@ -1,7 +1,7 @@
 # Jetro Web Development office space invoice
 
-### Good day Jeff, the jetro Web Development has come up with her invoice for her office. Jetro Web did a windown shoping and their bill came up to $3,400 USD.
-### Here is the break down of the $3,400 USD that Jetro Web will used for her office.
+### Good day Jeff, the jetro Web Development has come up with her invoice for her office. Jetro Web did a windown_shoping and their bill came up to $3,400 USD.
+### Here is the breakdown of the $3,400 USD that Jetro Web will used for her office.
 
 
 | NO |                   |    Item                                    |           | Total price|
